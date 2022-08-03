@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/carlodavid012/carlodavid012/raw/main/assets/github.gif" width: 100% alt="Hi, I'm Carlo David 👋 I'm a 🚀 Machine Learning Engineer 🚀">
+  <img src="https://github.com/carlodavid012/carlodavid012/raw/main/assets/github.gif" style='height: 100%; width: 100%; object-fit: contain' alt="Hi, I'm Carlo David 👋 I'm a 🚀 Machine Learning Engineer 🚀">
 </p>
 <!--
 **carlodavid012/carlodavid012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
