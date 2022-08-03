@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/carlodavid012/carlodavid012/raw/main/assets/github.gif" alt="Hi, I'm Carlo David 👋 I'm a 🚀 Machine Learning Engineer 🚀">
-</p>
+<img src="https://github.com/carlodavid012/carlodavid012/raw/main/assets/github.gif" alt="Hi, I'm Carlo David 👋 I'm a 🚀 Machine Learning Engineer 🚀">
+
 
 
 <!--
